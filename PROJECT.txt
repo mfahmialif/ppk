@@ -1,0 +1,34 @@
+[BAHAS PROJEK PPK V1.0]
+
+1. IDE :
+	DONASIKAN
+
+2. WHY :
+	Karena kita pengen orang-orang itu menyumbang, menolong sesama
+	Apa bedanya sama aplikasi yang lain :
+	- 
+3. FITUR :
+	- Pengguna biasa :
+		- Lihat daftar donasi
+		- Login register
+		- Lupa password
+		- Bisa liat dashboard
+		- Donasikan, create donasikan, buat donasikan
+		- Edit profil
+		- Detail Donasi
+		- Update DOnasi 
+		- Filter DOnasi
+		- Delete Donasi
+		- Report
+		- Log out
+
+	- Admin :
+		- Menampilkan semua daftar donasi
+		- Lihat report
+		- Banned / susspend user
+		- Donasi terkumpul
+		- Donasi memenuhi target
+		- Grafik
+		- Log Out
+
+
