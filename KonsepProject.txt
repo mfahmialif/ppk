@@ -1,0 +1,58 @@
+[BAHAS PROJEK PPK V1.1]
+
+1. IDE :
+	DONASIKAN
+
+2. WHY :
+	Karena kita pengen orang-orang itu memiliki rasa kemanusiaan, menolong sesama dan memudahkan orang untuk mendapatkan bantuan
+
+3. THE DIFFERENCE WITH OTHER APP : Karena berbasis dekstop maka bisa digunakan untuk orang yang sekelas perkantoran
+	
+4. FITUR :
+	- Pengguna biasa :
+		- Lihat daftar donasi
+		- Login register
+		- Lupa password
+		- Bisa liat dashboard
+		- Donasikan(create donasi)
+		- Edit profil
+		- Detail Donasi
+		- Update Donasi 
+		- Filter Donasi
+		- Delete Donasi
+		- Report
+		- Log out
+
+	- Admin :
+		- Menampilkan semua daftar donasi
+		- Lihat report
+		- Banned User
+		- Suspend user
+		- Donasi terkumpul
+		- Donasi memenuhi target
+		- Grafik
+		- Log Out
+		
+5. LANGUAGE : C#
+6. USED DATA : -Nama panjang
+	       -Username
+	       -Password
+	       -No.HP
+	       -TTL
+	       -Alamat sekarang
+	       -Email
+	       -Waktu
+	       -Judul Donasi
+	       -Deskripsi Donasi
+	       -Jumlah Donasi
+	       -Jenis Report : 1. SARA
+	       		       2. Penipuan
+	       -Status user(user biasa/superuser(admin))
+	       -Status suspend user
+	       -Status banned user
+	       -no.Rekening
+	       
+	     
+
+
+
