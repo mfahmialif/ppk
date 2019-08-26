@@ -1,0 +1,12 @@
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.exe.config
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.exe
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\bin\Debug\ProjectPPK.pdb
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csprojAssemblyReference.cache
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Donasikan.resources
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Properties.Resources.resources
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.GenerateResource.cache
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.csproj.CoreCompileInputs.cache
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.exe
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.pdb
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.Register.resources
+C:\Users\meilinda\source\repos\ProjectPPK\ProjectPPK\obj\Debug\ProjectPPK.ForgetPassword.resources
