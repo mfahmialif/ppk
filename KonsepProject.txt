@@ -50,6 +50,8 @@
 	       -Status user(user biasa/superuser(admin))
 	       -Status suspend user
 	       -Status banned user
+	       -no.Rekening
+	       
 	     
 
 
